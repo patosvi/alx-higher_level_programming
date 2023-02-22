@@ -3,3 +3,4 @@
  12. cat 12-no_genre.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
 13-count_shows_by_genre.sql
 cat 13-count_shows_by_genre.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
+cat 14-my_genres.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
