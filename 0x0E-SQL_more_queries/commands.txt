@@ -7,3 +7,4 @@ cat 14-my_genres.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
 cat 15-comedy_only.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
 cat 16-shows_by_genre.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
 cat 100-not_my_genres.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
+cat 101-not_a_comedy.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
