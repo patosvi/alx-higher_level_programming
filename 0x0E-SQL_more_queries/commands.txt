@@ -1,3 +1,5 @@
 10.cat 10-genre_id_by_show.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
  11. cat 11-genre_id_all_shows.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
  12. cat 12-no_genre.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
+13-count_shows_by_genre.sql
+cat 13-count_shows_by_genre.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
