@@ -1,0 +1,1 @@
+10.cat 10-genre_id_by_show.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
