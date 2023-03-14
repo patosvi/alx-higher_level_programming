@@ -10,3 +10,4 @@ script that prints “JavaScript is amazing”
 8-square.js  script that prints a square
 9-add.js  script that prints the addition of 2 integers
 10-factorial.js script that computes and prints a factorial
+11-second_biggest.js searches the second biggest integer in the list of arguments
