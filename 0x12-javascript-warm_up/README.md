@@ -15,3 +15,4 @@ script that prints “JavaScript is amazing”
 13-add.js  function that returns the addition of 2 integers.
 100-let_me_const.js  modifies the value of myVar to 333
  101-call_me_moby.js function that executes x times a function.
+102-add_me_maybe.js increments and calls a function.
