@@ -8,3 +8,4 @@ script that prints “JavaScript is amazing”
 6-multi_languages_loop.js script prints 3 lines but by using an array of string and a loop
 7-multi_c.js script that prints x times “C is fun”
 8-square.js  script that prints a square
+9-add.js  script that prints the addition of 2 integers
