@@ -10,3 +10,4 @@
 6-square#1 class Square that defines a square and inherits from Square of 5-square.js:
 7-occurrences.js returns no of ocurrences from a list 
 8-esrever.js function that returns the reversed version of a list:
+9-logme.js  prints the number of arguments already printed and the new argument value
