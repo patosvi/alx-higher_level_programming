@@ -11,3 +11,4 @@
 7-occurrences.js returns no of ocurrences from a list 
 8-esrever.js function that returns the reversed version of a list:
 9-logme.js  prints the number of arguments already printed and the new argument value
+10-converter.js converts a number from base 10 to another base passed as argument:
