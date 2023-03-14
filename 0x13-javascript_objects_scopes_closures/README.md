@@ -13,3 +13,7 @@
 9-logme.js  prints the number of arguments already printed and the new argument value
 10-converter.js converts a number from base 10 to another base passed as argument:
 100-map.js script that imports an array and computes a new array.
+[master ed09d75] script that imports an array and computes a new array.
+ 2 files changed, 9 insertions(+)
+ create mode 100755 0x13-javascript_objects_scopes_closures/100-map.js
+101-sorted.js  imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence.
