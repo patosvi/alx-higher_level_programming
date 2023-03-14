@@ -9,3 +9,4 @@
 5-square.js class Square that defines a square and inherits from Rectangle of 4-rectangle.js
 6-square#1 class Square that defines a square and inherits from Square of 5-square.js:
 7-occurrences.js returns no of ocurrences from a list 
+8-esrever.js function that returns the reversed version of a list:
