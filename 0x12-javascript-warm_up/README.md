@@ -16,3 +16,4 @@ script that prints “JavaScript is amazing”
 100-let_me_const.js  modifies the value of myVar to 333
  101-call_me_moby.js function that executes x times a function.
 102-add_me_maybe.js increments and calls a function.
+103-object_fct.js  new function incr that increments the integer value.
