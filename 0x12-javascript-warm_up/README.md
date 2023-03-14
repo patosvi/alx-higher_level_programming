@@ -13,3 +13,4 @@ script that prints “JavaScript is amazing”
 11-second_biggest.js searches the second biggest integer in the list of arguments
 12-object.js updates to replace 12 with 89
 13-add.js  function that returns the addition of 2 integers.
+100-let_me_const.js  modifies the value of myVar to 333
