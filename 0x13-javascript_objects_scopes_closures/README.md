@@ -17,3 +17,7 @@
  2 files changed, 9 insertions(+)
  create mode 100755 0x13-javascript_objects_scopes_closures/100-map.js
 101-sorted.js  imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence.
+102-concat.js concats 2 files The first argument is the file path of the first source file
+The second argument is the file path of the second source file
+
+the third part is the file destination
