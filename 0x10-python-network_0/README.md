@@ -6,3 +6,4 @@
 4. Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response
 5.script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response
 6.Write a function that finds a peak in a list of unsorted integers.
+7.Bash script that sends a request to a URL passed as an argument, and displays only the status code of the response.
