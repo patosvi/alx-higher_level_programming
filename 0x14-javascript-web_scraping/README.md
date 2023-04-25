@@ -8,3 +8,4 @@
 4.Star wars Wedge Antillies  script that prints the number of movies where the character “Wedge Antilles” is present.
 
 The first argument is the API URL of the Star wars API: https://swapi-api.alx-tools.com/api/films
+5. Loripsum
