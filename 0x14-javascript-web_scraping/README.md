@@ -4,3 +4,4 @@
 
 
 2. Status code ---display the status code of a GET request.
+3. Star wars movie title----Prints movies Title
