@@ -12,3 +12,4 @@ The first argument is the API URL of the Star wars API: https://swapi-api.alx-to
 6. How many completed?6. computes the number of tasks completed by user id.
 
 The first argument is the API URL: https://jsonplaceholder.typicode.com/todos
+7. Who was playing in this movie?
