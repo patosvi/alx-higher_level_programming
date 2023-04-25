@@ -3,3 +3,4 @@
 1. Write me-----Script that writes to a file
 
 
+2. Status code ---display the status code of a GET request.
