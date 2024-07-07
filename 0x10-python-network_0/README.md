@@ -9,3 +9,7 @@
 7.Bash script that sends a request to a URL passed as an argument, and displays only the status code of the response.
 8.Bash script that sends a JSON POST request to a URL passed as the first argument, and displays the body of the response.
 9.Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message.
+10.##RESOURCES##
+  https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html
+
+  https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
